@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, I’m Shaik Ameer Hussain 🎓 B.Tech Data Science | Santhiram Engineering College (2023–2027) 💻 Passionate about AI, Machine Learning & Generative AI</h2>
+<h2 align="left">AI Enthusiast | Data Science Student | Tech Explorer<br>Turning ideas into impactful solutions through code ⚡<br><br>💡 Passionate about Generative AI, Web Development & Real-World Problem Solving<br>🛠️ Building projects like JARVIS (Virtual Assistant) & AI-based systems<br>🚀 Startup mindset — working on THREADLIFT and innovation-driven ideas<br>👨‍💻 Team Leader | UI Path Student Developer Champion | E-Cell Lead<br><br>🔥 Driven by innovation, leadership & execution<br>📈 Always learning. Always building. Always improving.</h2>
 
 ###
 
@@ -8,9 +8,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ameershaik3288&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ameershaik3288&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Ameershaik3288&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -43,11 +42,15 @@
   <a href="https://www.instagram.com/unfiltered_ameer/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/ameer-hussain-shaik-am18112002/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  <a href="https://medium.com/@ameershaik18438" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://medium.com/@ameershaik18438" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
@@ -59,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ameershaik3288.Ameershaik3288&"  />
+  <img src="https://count.getloli.com/@:Ameershaik3288?theme=nixietube-1&padding=4&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
