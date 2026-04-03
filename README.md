@@ -18,6 +18,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ameershaik3288/Ameershaik3288/output/snake.svg" />
+</p>
+
+---
+
 ## 🏆 Achievements & Recognition
 <p align="center">
   <img src="https://img.shields.io/badge/Viksit_Bharat_Young_Leaders-2025-blue?style=for-the-badge" />
@@ -68,12 +74,6 @@
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ameershaik3288&theme=tokyo-night" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ameershaik3288/Ameershaik3288/output/snake.svg" />
 </p>
 
 ---
