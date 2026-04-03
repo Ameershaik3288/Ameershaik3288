@@ -72,7 +72,6 @@
 
 ---
 
-## 🐍 Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ameershaik3288/Ameershaik3288/output/snake.svg" />
 </p>
