@@ -4,12 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast+🚀;Data+Science+Student;Tech+Explorer;Building+Real+World+Solutions+⚡;Future+Tech+Entrepreneur" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ameershaik3288&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
-
 <img align="right" height="180" src="https://media.giphy.com/media/TXSxuSHx9i6TNeBSry/giphy.gif" />
 
 ## ⚡ About Me
