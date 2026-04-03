@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ameer Hussain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🚀;Data+Science+Student;Tech+Explorer;Building+Real+World+Solutions+⚡;Future+Tech+Entrepreneur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast+🚀;Data+Science+Student;Tech+Explorer;Building+Real+World+Solutions+⚡;Future+Tech+Entrepreneur" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="170" src="https://media.giphy.com/media/TXSxuSHx9i6TNeBSry/giphy.gif" />
+<img align="right" height="180" src="https://media.giphy.com/media/TXSxuSHx9i6TNeBSry/giphy.gif" />
 
 ## ⚡ About Me
 - 🎓 B.Tech Data Science Student
@@ -23,18 +23,35 @@
 
 ---
 
+## 🏆 Achievements & Recognition
+<p align="center">
+  <img src="https://img.shields.io/badge/Viksit_Bharat_Young_Leaders-2025-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT_Madras-NICE_25_Finalist-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT_Bombay-E--Cell_NEC_Team_Lead-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-Watson_Project_Contributor-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UIPath-Student_Developer_Champion-purple?style=for-the-badge" />
+</p>
+
+---
+
 ## 🧠 Tech Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,java,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-- 🤖 **JARVIS** – AI Virtual Assistant
-- 😊 **Face Emotion Detector**
-- 🌾 **KrishiRakshak AI** – Crop Disease Detection
-- 💡 **THREADLIFT** – Apparel Startup System
+<div align="center">
+
+| Project | Description |
+|--------|------------|
+| 🤖 JARVIS | AI Virtual Assistant |
+| 😊 Face Emotion Detector | Emotion Recognition System |
+| 🌾 KrishiRakshak AI | Crop Disease Detection |
+| 💡 THREADLIFT | Apparel Tech Startup |
+
+</div>
 
 ---
 
@@ -46,9 +63,9 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ameershaik3288&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ameershaik3288&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
